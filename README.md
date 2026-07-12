@@ -19,6 +19,10 @@ I build the platforms and tools that help engineering teams ship faster and slee
 | [platform-engineering-blueprint](https://github.com/sharatvikas/platform-engineering-blueprint) | Full IDP: Backstage + ArgoCD + Crossplane + Terraform | HCL, YAML, Helm |
 | [observability-as-code](https://github.com/sharatvikas/observability-as-code) | Grafana dashboards + Prometheus rules + AI alert enrichment | Grafonnet, YAML, Go |
 
+### 🎵 Side quest
+
+**[Hum Raaga](https://humraaga.com)** — hum, sing, or upload any track and discover its raga. Indian classical music AI covering both Hindustani and Carnatic traditions: pitch tracking + swara analysis fused with ML models trained on 88k samples, plus Shazam-style fingerprinting for film songs. Live at [humraaga.com](https://humraaga.com).
+
 ---
 
 ## Core Expertise
