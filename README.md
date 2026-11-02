@@ -58,10 +58,12 @@ Ships sink because they run out of memory (a Kubernetes crash loop). Letters rea
 
 ## 🛠️ What I'm Building
 
-Click any project to see **the problem it solves** and **the key terms**, defined.
+Click any project to expand **the problem it solves**, **what it does**, and **its key terms, defined**.
 
 <details>
-<summary><b><a href="https://github.com/sharatvikas/sre-mcp-server">sre-mcp-server</a></b>: MCP server giving AI assistants direct access to your SRE toolchain · <i>Python, MCP SDK</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/sre-mcp-server?label=updated&style=flat-square" alt="last commit"></summary>
+<summary><b>sre-mcp-server</b>: MCP server giving AI assistants direct access to your SRE toolchain · <i>Python, MCP SDK</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/sre-mcp-server?label=updated&style=flat-square" alt="last commit"></summary>
+
+📂 **[Open the repo →](https://github.com/sharatvikas/sre-mcp-server)**
 
 > **Problem:** at the start of every incident, on-call engineers spend precious minutes on the same mechanical work: correlating alerts, pulling metrics, checking recent deployments, skimming runbooks.
 >
@@ -75,7 +77,9 @@ Click any project to see **the problem it solves** and **the key terms**, define
 </details>
 
 <details>
-<summary><b><a href="https://github.com/sharatvikas/k8s-ai-ops">k8s-ai-ops</a></b>: AI-powered Kubernetes diagnostics and auto-remediation · <i>Go, Claude API, K8s</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/k8s-ai-ops?label=updated&style=flat-square" alt="last commit"></summary>
+<summary><b>k8s-ai-ops</b>: AI-powered Kubernetes diagnostics and auto-remediation · <i>Go, Claude API, K8s</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/k8s-ai-ops?label=updated&style=flat-square" alt="last commit"></summary>
+
+📂 **[Open the repo →](https://github.com/sharatvikas/k8s-ai-ops)**
 
 > **Problem:** Kubernetes events and pod statuses are cryptic, and turning them into a diagnosis takes experience.
 >
@@ -90,7 +94,9 @@ Click any project to see **the problem it solves** and **the key terms**, define
 </details>
 
 <details>
-<summary><b><a href="https://github.com/sharatvikas/mcp-sdk-private-org">mcp-sdk-private-org</a></b>: Enterprise MCP server scaffold with auth, RBAC, and audit logging · <i>Python, MCP SDK</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/mcp-sdk-private-org?label=updated&style=flat-square" alt="last commit"></summary>
+<summary><b>mcp-sdk-private-org</b>: Enterprise MCP server scaffold with auth, RBAC, and audit logging · <i>Python, MCP SDK</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/mcp-sdk-private-org?label=updated&style=flat-square" alt="last commit"></summary>
+
+📂 **[Open the repo →](https://github.com/sharatvikas/mcp-sdk-private-org)**
 
 > **Problem:** the official MCP SDK makes tools quick to build, but a *private* MCP server shared by many teams inside a company needs authentication, tenancy and compliance on top.
 >
@@ -104,7 +110,9 @@ Click any project to see **the problem it solves** and **the key terms**, define
 </details>
 
 <details>
-<summary><b><a href="https://github.com/sharatvikas/terraform-ai-guardian">terraform-ai-guardian</a></b>: AI Terraform plan reviewer for GitHub Actions · <i>Python, Claude API, GH Actions</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/terraform-ai-guardian?label=updated&style=flat-square" alt="last commit"></summary>
+<summary><b>terraform-ai-guardian</b>: AI Terraform plan reviewer for GitHub Actions · <i>Python, Claude API, GH Actions</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/terraform-ai-guardian?label=updated&style=flat-square" alt="last commit"></summary>
+
+📂 **[Open the repo →](https://github.com/sharatvikas/terraform-ai-guardian)**
 
 > **Problem:** Terraform plans are long and hard to review, so reviewers skim and approve. That's how security groups get opened to the world and expensive resources slip through.
 >
@@ -119,7 +127,9 @@ Click any project to see **the problem it solves** and **the key terms**, define
 </details>
 
 <details>
-<summary><b><a href="https://github.com/sharatvikas/aws-finops-intelligence">aws-finops-intelligence</a></b>: AI-driven AWS cost anomaly detection and rightsizing · <i>Python, AWS SDK</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/aws-finops-intelligence?label=updated&style=flat-square" alt="last commit"></summary>
+<summary><b>aws-finops-intelligence</b>: AI-driven AWS cost anomaly detection and rightsizing · <i>Python, AWS SDK</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/aws-finops-intelligence?label=updated&style=flat-square" alt="last commit"></summary>
+
+📂 **[Open the repo →](https://github.com/sharatvikas/aws-finops-intelligence)**
 
 > **Problem:** AWS bills are complex (Reserved Instances, Savings Plans, data transfer, hundreds of dimensions), so even experienced engineers miss savings.
 >
@@ -133,7 +143,9 @@ Click any project to see **the problem it solves** and **the key terms**, define
 </details>
 
 <details>
-<summary><b><a href="https://github.com/sharatvikas/chaos-engineering-operator">chaos-engineering-operator</a></b>: Kubernetes chaos operator with SLO-aware safety gates · <i>Go, controller-runtime</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/chaos-engineering-operator?label=updated&style=flat-square" alt="last commit"></summary>
+<summary><b>chaos-engineering-operator</b>: Kubernetes chaos operator with SLO-aware safety gates · <i>Go, controller-runtime</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/chaos-engineering-operator?label=updated&style=flat-square" alt="last commit"></summary>
+
+📂 **[Open the repo →](https://github.com/sharatvikas/chaos-engineering-operator)**
 
 > **Problem:** you only find out how a system handles failure when failure happens, unless you test it on purpose, safely.
 >
@@ -147,7 +159,9 @@ Click any project to see **the problem it solves** and **the key terms**, define
 </details>
 
 <details>
-<summary><b><a href="https://github.com/sharatvikas/platform-engineering-blueprint">platform-engineering-blueprint</a></b>: Full IDP: Backstage + ArgoCD + Crossplane + Terraform · <i>HCL, YAML, Helm</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/platform-engineering-blueprint?label=updated&style=flat-square" alt="last commit"></summary>
+<summary><b>platform-engineering-blueprint</b>: Full IDP: Backstage + ArgoCD + Crossplane + Terraform · <i>HCL, YAML, Helm</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/platform-engineering-blueprint?label=updated&style=flat-square" alt="last commit"></summary>
+
+📂 **[Open the repo →](https://github.com/sharatvikas/platform-engineering-blueprint)**
 
 > **Problem:** product engineers lose time filing tickets for infrastructure (a bucket, a namespace, a database) and waiting.
 >
@@ -162,7 +176,9 @@ Click any project to see **the problem it solves** and **the key terms**, define
 </details>
 
 <details>
-<summary><b><a href="https://github.com/sharatvikas/observability-as-code">observability-as-code</a></b>: Grafana dashboards + Prometheus rules + AI alert enrichment · <i>Grafonnet, YAML, Go</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/observability-as-code?label=updated&style=flat-square" alt="last commit"></summary>
+<summary><b>observability-as-code</b>: Grafana dashboards + Prometheus rules + AI alert enrichment · <i>Grafonnet, YAML, Go</i> &nbsp; <img src="https://img.shields.io/github/last-commit/sharatvikas/observability-as-code?label=updated&style=flat-square" alt="last commit"></summary>
+
+📂 **[Open the repo →](https://github.com/sharatvikas/observability-as-code)**
 
 > **Problem:** dashboards built by hand with no version control, alert rules that are never reviewed, and alerts that fire with no context.
 >
