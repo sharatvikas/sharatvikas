@@ -36,13 +36,13 @@ Most of what I build sits in three areas:
 <table>
 <tr>
 <td width="55%">
-<a href="https://sharatvikas.github.io/ninefold/"><img src="https://raw.githubusercontent.com/sharatvikas/ninefold/main/docs/screenshots/sinking-ship.gif" alt="Ninefold: a ship overflows its hold and sinks, an OOMKilled crash loop"></a>
+<a href="https://sharatvikas.github.io/ninefold/"><img src="https://raw.githubusercontent.com/sharatvikas/ninefold/main/docs/screenshots/gameplay.gif" alt="Ninefold gameplay: find the cause of a failed build, fix it, watch it pass"></a>
 </td>
 <td>
 
 **[Ninefold](https://github.com/sharatvikas/ninefold)** is a cozy pixel-art game that teaches SRE, DevOps & cloud engineering by having you fix a town.
 
-Ships sink because they run out of memory (a Kubernetes crash loop). Letters reach the wrong house because a DNS record is wrong. You **find the evidence, change the real setting, verify it**, then see the same fix with real tools.
+Build trains derail on a missing dependency. Ships sink because they run out of memory (a Kubernetes crash loop). Letters reach the wrong house because a DNS record is wrong. You **find the evidence, change the real setting, verify it**, then see the same fix with real tools.
 
 - 51 tickets across 8 areas: DNS, CI/CD, Terraform, Kubernetes, observability, security, databases, SLOs
 - Metaphor first, then a real terminal (`kubectl`, `dig`, PromQL)
