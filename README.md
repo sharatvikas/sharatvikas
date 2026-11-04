@@ -210,7 +210,7 @@ A **raga** is a melodic framework in Indian classical music: a set of notes (**s
 <!-- RECENT:START -->
 | Project | What it is | Language | Last push |
 |---|---|---|---|
-| [**ninefold**](https://github.com/sharatvikas/ninefold) · [live ↗](https://sharatvikas.github.io/ninefold/) | A cozy pixel-art town where you learn SRE, DevOps and cloud engineering by fixing things. | TypeScript | 2026-11-02 |
+| [**ninefold**](https://github.com/sharatvikas/ninefold) · [live ↗](https://sharatvikas.github.io/ninefold/) | A cozy pixel-art town where you learn SRE, DevOps and cloud engineering by fixing things. | TypeScript | 2026-11-04 |
 | [**explainer-studio**](https://github.com/sharatvikas/explainer-studio) | Claude Code plugin: turn any folder of notes, questions or screenshots into researched, animated 1080p explainer videos and Shorts. | Python | 2026-11-01 |
 | [**terraform-ai-guardian**](https://github.com/sharatvikas/terraform-ai-guardian) | AI-powered Terraform plan reviewer for GitHub Actions — security risks, blast radius, cost implications, and org standards drift detection | Python | 2026-09-23 |
 | [**platform-engineering-blueprint**](https://github.com/sharatvikas/platform-engineering-blueprint) | Production-ready Internal Developer Platform blueprint — Backstage + ArgoCD + Crossplane + Terraform for self-service infrastructure and deployments | HCL | 2026-09-23 |
