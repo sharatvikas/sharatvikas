@@ -210,12 +210,12 @@ A **raga** is a melodic framework in Indian classical music: a set of notes (**s
 <!-- RECENT:START -->
 | Project | What it is | Language | Last push |
 |---|---|---|---|
-| [**ninefold**](https://github.com/sharatvikas/ninefold) · [live ↗](https://sharatvikas.github.io/ninefold/) | A cozy pixel-art town where you learn SRE, DevOps and cloud engineering by fixing things. | TypeScript | 2026-11-11 |
-| [**explainer-studio**](https://github.com/sharatvikas/explainer-studio) | Claude Code plugin: turn any folder of notes, questions or screenshots into researched, animated 1080p explainer videos and Shorts. | Python | 2026-11-01 |
-| [**terraform-ai-guardian**](https://github.com/sharatvikas/terraform-ai-guardian) | AI-powered Terraform plan reviewer for GitHub Actions — security risks, blast radius, cost implications, and org standards drift detection | Python | 2026-09-23 |
-| [**platform-engineering-blueprint**](https://github.com/sharatvikas/platform-engineering-blueprint) | Production-ready Internal Developer Platform blueprint — Backstage + ArgoCD + Crossplane + Terraform for self-service infrastructure and deployments | HCL | 2026-09-23 |
-| [**aws-finops-intelligence**](https://github.com/sharatvikas/aws-finops-intelligence) | AI-driven AWS cost intelligence — anomaly detection, waste identification, rightsizing recommendations, and Terraform remediation snippets | Python | 2026-07-12 |
-| [**mcp-sdk-private-org**](https://github.com/sharatvikas/mcp-sdk-private-org) | Enterprise MCP server scaffold — auth middleware, RBAC, audit logging, and deployment patterns for private org AI tooling infrastructure | Python | 2026-07-12 |
+| [**k8s-ai-ops**](https://github.com/sharatvikas/k8s-ai-ops) | AI-powered Kubernetes operations assistant — Claude API + live cluster context for pod diagnosis, event explanation, and auto-remediation | Go | 2026-11-12 |
+| [**platform-engineering-blueprint**](https://github.com/sharatvikas/platform-engineering-blueprint) | Production-ready Internal Developer Platform blueprint — Backstage + ArgoCD + Crossplane + Terraform for self-service infrastructure and deployments | HCL | 2026-11-12 |
+| [**sre-mcp-server**](https://github.com/sharatvikas/sre-mcp-server) | Production-grade MCP server for SRE operations — PagerDuty, Grafana, Kubernetes, and AWS CloudWatch tools for AI assistants | Python | 2026-11-12 ⭐ 1 |
+| [**aws-finops-intelligence**](https://github.com/sharatvikas/aws-finops-intelligence) | AI-driven AWS cost intelligence — anomaly detection, waste identification, rightsizing recommendations, and Terraform remediation snippets | Python | 2026-11-12 |
+| [**chaos-engineering-operator**](https://github.com/sharatvikas/chaos-engineering-operator) | Kubernetes operator for controlled chaos experiments — pod failures, network partitions, CPU/memory stress with SLO-aware safety gates and auto-rollback | Go | 2026-11-12 |
+| [**observability-as-code**](https://github.com/sharatvikas/observability-as-code) | Complete observability stack as code — Grafana dashboards, Prometheus rules, SLO framework, and AI-powered alert enrichment via Claude API | Jsonnet | 2026-11-12 |
 
 <sub>🤖 Updated automatically by GitHub Actions from my 6 most recently pushed public repos.</sub>
 <!-- RECENT:END -->
