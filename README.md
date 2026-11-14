@@ -6,14 +6,43 @@
 
 **Staff Site Reliability Engineer** | AWS Solutions Architect | CKA Certified | Boulder, CO
 
-I build the platforms and tools that help engineering teams ship faster and sleep better at night.<br>Currently governing all Cloud Engineering at [Sovrn](https://www.sovrn.com).
+I build the platforms and tools that help engineering teams ship faster and sleep better at night.<br>Staff SRE at [Sovrn](https://www.sovrn.com) on the cross-functional Application Cloud Enablement team: cloud governance across 60+ AWS accounts, org-wide CI/CD and SLO standards, and AI-powered operations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/saratvikas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/sharatvikas)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/sharatvikas)
 [![Play Ninefold](https://img.shields.io/badge/▶_Play-Ninefold-1e8a4a)](https://sharatvikas.github.io/ninefold/)
 [![Hum Raaga](https://img.shields.io/badge/🎵-humraaga.com-b5523b)](https://humraaga.com)
 
 </div>
+
+---
+
+## 🏆 Career milestones
+
+| When | Role | Highlights |
+|---|---|---|
+| 2023 – now | **Staff SRE**, Sovrn | AWS across **60+ accounts** (Control Tower, AFT, IAM Identity Center) · MCP servers: **−40% manual ops, −60% incident response time** · org-wide CI/CD standardization: **−35% deployment failures** · cross-functional ACE team: org-wide SLO/SLA & security standards, incident lead, AI coding-tool adoption, mentoring juniors to promotion |
+| 2022 – 2023 | **Senior SRE**, Sovrn | **−25% monthly cloud spend** · deploys from **weekly to multiple times daily** · **−70% manual deployment time** · EKS/ECS microservices serving millions of requests a day |
+| 2019 – 2022 | **DevOps Consultant**, AgreeYa Solutions | Kubernetes application platforms · Istio service mesh · CloudFormation + Ansible + Jenkins multi-environment pipelines |
+| 2017 – 2019 | **DevOps Engineer**, CoreHive Computing | Custom Kubernetes controllers & operators in **Go and Python** · self-healing infrastructure |
+
+**Certified:** CKA · AWS Solutions Architect – Associate &nbsp;·&nbsp; **Education:** MS Computer Science, Texas A&M University–Kingsville
+
+## 🗂️ Projects at a glance
+
+| Project | One line | Stack |
+|---|---|---|
+| [**Ninefold**](https://github.com/sharatvikas/ninefold) · [▶ play](https://sharatvikas.github.io/ninefold/) | Learn SRE by fixing a pixel-art town: 51 hands-on tickets | TypeScript |
+| [**sre-mcp-server**](https://github.com/sharatvikas/sre-mcp-server) | MCP server giving AI assistants PagerDuty, Grafana, Kubernetes & CloudWatch | Python |
+| [**k8s-ai-ops**](https://github.com/sharatvikas/k8s-ai-ops) | AI diagnosis and auto-remediation for Kubernetes workloads | Go |
+| [**terraform-ai-guardian**](https://github.com/sharatvikas/terraform-ai-guardian) | AI review of every `terraform plan` in CI: security, cost, blast radius | Python |
+| [**chaos-engineering-operator**](https://github.com/sharatvikas/chaos-engineering-operator) | Chaos experiments as K8s resources, with SLO-aware auto-abort | Go |
+| [**observability-as-code**](https://github.com/sharatvikas/observability-as-code) | Dashboards, alerts & multi-burn-rate SLOs, all in Git | Jsonnet |
+| [**platform-engineering-blueprint**](https://github.com/sharatvikas/platform-engineering-blueprint) | Self-service IDP: Backstage + ArgoCD + Crossplane + Terraform | HCL |
+| [**aws-finops-intelligence**](https://github.com/sharatvikas/aws-finops-intelligence) | Nightly AWS cost anomalies, waste and rightsizing | Python |
+| [**mcp-sdk-private-org**](https://github.com/sharatvikas/mcp-sdk-private-org) | Enterprise MCP scaffold: auth, RBAC, audit logging | Python |
+
+<sub>Details, problems solved and key terms for each project are further down.</sub>
 
 ---
 
@@ -266,7 +295,7 @@ Languages      Python · Go · Bash · HCL
 
 ## 📫 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/saratvikas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sharatvikas)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge)](https://github.com/sharatvikas)
 
 *"The goal of SRE is to make tomorrow better than today — by building systems that are reliable enough that the humans operating them can focus on what matters."*
