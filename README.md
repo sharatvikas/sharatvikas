@@ -8,6 +8,7 @@
 
 I build the platforms and tools that help engineering teams ship faster and sleep better at night.<br>Staff SRE at [Sovrn](https://www.sovrn.com) on the cross-functional Application Cloud Enablement team: cloud governance across 60+ AWS accounts, org-wide CI/CD and SLO standards, and AI-powered operations.
 
+[![Website](https://img.shields.io/badge/🌐-saratvikas.me-0f766e)](https://saratvikas.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/sharatvikas)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github)](https://github.com/sharatvikas)
 [![Play Ninefold](https://img.shields.io/badge/▶_Play-Ninefold-1e8a4a)](https://sharatvikas.github.io/ninefold/)
@@ -295,6 +296,7 @@ Languages      Python · Go · Bash · HCL
 
 ## 📫 Get In Touch
 
+[![Website](https://img.shields.io/badge/Website-saratvikas.me-0f766e?style=for-the-badge)](https://saratvikas.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/sharatvikas)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&style=for-the-badge)](https://github.com/sharatvikas)
 
