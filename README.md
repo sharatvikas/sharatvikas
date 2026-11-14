@@ -6,7 +6,7 @@
 
 **Staff Site Reliability Engineer** | AWS Solutions Architect | CKA Certified | Boulder, CO
 
-I build the platforms and tools that help engineering teams ship faster and sleep better at night.<br>Staff SRE at [Sovrn](https://www.sovrn.com) on the cross-functional Application Cloud Enablement team: cloud governance across 60+ AWS accounts, org-wide CI/CD and SLO standards, and AI-powered operations.
+I build the platforms and tools that help engineering teams ship faster and sleep better at night.<br>Staff SRE at [Sovrn](https://www.sovrn.com) on the cross-functional Application Cloud Enablement team: technical lead in practice for cloud platform, FinOps, security, CI/CD and the AI developer platform across 66 AWS accounts.
 
 [![Website](https://img.shields.io/badge/🌐-saratvikas.me-0f766e)](https://saratvikas.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin)](https://linkedin.com/in/sharatvikas)
@@ -22,8 +22,8 @@ I build the platforms and tools that help engineering teams ship faster and slee
 
 | When | Role | Highlights |
 |---|---|---|
-| 2023 – now | **Staff SRE**, Sovrn | AWS across **60+ accounts** (Control Tower, AFT, IAM Identity Center) · MCP servers: **−40% manual ops, −60% incident response time** · org-wide CI/CD standardization: **−35% deployment failures** · cross-functional ACE team: org-wide SLO/SLA & security standards, incident lead, AI coding-tool adoption, mentoring juniors to promotion |
-| 2022 – 2023 | **Senior SRE**, Sovrn | **−25% monthly cloud spend** · deploys from **weekly to multiple times daily** · **−70% manual deployment time** · EKS/ECS microservices serving millions of requests a day |
+| 2023 – now | **Staff SRE**, Sovrn | Technical lead in practice for the ACE team across **66 AWS accounts** in two orgs · **S3 cost per PB −57%** while data grew 33% · **98% vulnerability-scan coverage** in 11 days · company **MCP gateway: 48 engineers, ~15 teams** · Dependabot auto-merge: **median merge time −90%** · Jenkins retired org-wide · incident lead, org-wide SLO/SLA & security standards, mentoring |
+| 2022 – 2023 | **Senior SRE**, Sovrn | AWS landing zone from **0 → 29 Terraform-vended accounts in 10 months** (55 today) · keyless GitHub Actions OIDC deploys · Golden AMIs in all 5 regions · Transit Gateway + Route 53 Resolver core network |
 | 2019 – 2022 | **DevOps Consultant**, AgreeYa Solutions | Kubernetes application platforms · Istio service mesh · CloudFormation + Ansible + Jenkins multi-environment pipelines |
 | 2017 – 2019 | **DevOps Engineer**, CoreHive Computing | Custom Kubernetes controllers & operators in **Go and Python** · self-healing infrastructure |
 
