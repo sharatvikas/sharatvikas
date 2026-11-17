@@ -240,12 +240,12 @@ A **raga** is a melodic framework in Indian classical music: a set of notes (**s
 <!-- RECENT:START -->
 | Project | What it is | Language | Last push |
 |---|---|---|---|
+| [**pokemon-trade-helper**](https://github.com/sharatvikas/pokemon-trade-helper) | Personal Pokemon TCG want-list price tracker — TCGPlayer + eBay + email alerts | TypeScript | 2026-11-17 |
 | [**k8s-ai-ops**](https://github.com/sharatvikas/k8s-ai-ops) | AI-powered Kubernetes operations assistant — Claude API + live cluster context for pod diagnosis, event explanation, and auto-remediation | Go | 2026-11-16 |
 | [**sre-mcp-server**](https://github.com/sharatvikas/sre-mcp-server) | Production-grade MCP server for SRE operations — PagerDuty, Grafana, Kubernetes, and AWS CloudWatch tools for AI assistants | Python | 2026-11-16 ⭐ 1 |
 | [**ninefold**](https://github.com/sharatvikas/ninefold) · [live ↗](https://sharatvikas.github.io/ninefold/) | A cozy pixel-art town where you learn SRE, DevOps and cloud engineering by fixing things. | TypeScript | 2026-11-16 |
 | [**platform-engineering-blueprint**](https://github.com/sharatvikas/platform-engineering-blueprint) | Production-ready Internal Developer Platform blueprint — Backstage + ArgoCD + Crossplane + Terraform for self-service infrastructure and deployments | HCL | 2026-11-12 |
 | [**aws-finops-intelligence**](https://github.com/sharatvikas/aws-finops-intelligence) | AI-driven AWS cost intelligence — anomaly detection, waste identification, rightsizing recommendations, and Terraform remediation snippets | Python | 2026-11-12 |
-| [**chaos-engineering-operator**](https://github.com/sharatvikas/chaos-engineering-operator) | Kubernetes operator for controlled chaos experiments — pod failures, network partitions, CPU/memory stress with SLO-aware safety gates and auto-rollback | Go | 2026-11-12 |
 
 <sub>🤖 Updated automatically by GitHub Actions from my 6 most recently pushed public repos.</sub>
 <!-- RECENT:END -->
