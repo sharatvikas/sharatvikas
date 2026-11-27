@@ -240,10 +240,10 @@ A **raga** is a melodic framework in Indian classical music: a set of notes (**s
 <!-- RECENT:START -->
 | Project | What it is | Language | Last push |
 |---|---|---|---|
+| [**ninefold**](https://github.com/sharatvikas/ninefold) · [live ↗](https://sharatvikas.github.io/ninefold/) | A cozy pixel-art town where you learn SRE, DevOps and cloud engineering by fixing things. | TypeScript | 2026-11-27 |
 | [**chaos-engineering-operator**](https://github.com/sharatvikas/chaos-engineering-operator) | Kubernetes operator for controlled chaos experiments — pod failures, network partitions, CPU/memory stress with SLO-aware safety gates and auto-rollback | Go | 2026-11-23 |
 | [**k8s-ai-ops**](https://github.com/sharatvikas/k8s-ai-ops) | AI-powered Kubernetes operations assistant — Claude API + live cluster context for pod diagnosis, event explanation, and auto-remediation | Go | 2026-11-23 |
 | [**terraform-ai-guardian**](https://github.com/sharatvikas/terraform-ai-guardian) | AI-powered Terraform plan reviewer for GitHub Actions — security risks, blast radius, cost implications, and org standards drift detection | Python | 2026-11-23 |
-| [**ninefold**](https://github.com/sharatvikas/ninefold) · [live ↗](https://sharatvikas.github.io/ninefold/) | A cozy pixel-art town where you learn SRE, DevOps and cloud engineering by fixing things. | TypeScript | 2026-11-23 |
 | [**pokemon-trade-helper**](https://github.com/sharatvikas/pokemon-trade-helper) | Personal Pokemon TCG want-list price tracker — TCGPlayer + eBay + email alerts | TypeScript | 2026-11-17 |
 | [**sre-mcp-server**](https://github.com/sharatvikas/sre-mcp-server) | Production-grade MCP server for SRE operations — PagerDuty, Grafana, Kubernetes, and AWS CloudWatch tools for AI assistants | Python | 2026-11-16 ⭐ 1 |
 
